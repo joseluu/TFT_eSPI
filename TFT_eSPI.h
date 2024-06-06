@@ -1008,4 +1008,7 @@ fastBlend(A alpha, F fgc, B bgc)
 // Load the Sprite Class
 #include "Extensions/Sprite.h"
 
+// include the renamed .cpp file
+#include "TFT_eSPI.hpp"
+
 #endif // ends #ifndef _TFT_eSPIH_
